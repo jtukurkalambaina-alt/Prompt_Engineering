@@ -51,7 +51,7 @@ Furthermore, this repository serves as a platform for showcasing innovative prom
 
 ## 📖 Get the Fully Explained Version of This Repo  
 
-This repository contains **22 hands-on Jupyter Notebook tutorials** covering **key prompt engineering techniques**.  
+This repository contains **22 hands-on Jupyter Notebook tutorials** covering **key prompt engineering techniques**, plus runnable examples for practical chat workflows.  
 If you want to go **deeper** with **full explanations, intuitive insights, and structured exercises**, check out the **expanded version in book format**:  
 
 📚 **Prompt Engineering from Zero to Hero**  
@@ -67,6 +67,10 @@ If you want to go **deeper** with **full explanations, intuitive insights, and s
 👉 **[Get the full explained version here](https://nirdiamant.gumroad.com/l/mtxrfk?_gl=1*pgq3ou*_ga*MTU1ODY4NzE3MC4xNzQwNDc5NzIw*_ga_6LJN6D94N6*MTc0MDUxNDk3Mi4zLjEuMTc0MDUxNzg1Ny4wLjAuMA..)**  
 
 
+
+## Runnable Examples
+
+- [Multi-turn Chat with Conversation History](examples/README.md): a terminal chat loop that remembers previous turns, supports `/clear`, and can run offline with a deterministic mock client or with OpenAI when `OPENAI_API_KEY` is configured.
 
 ## Related Projects
 
