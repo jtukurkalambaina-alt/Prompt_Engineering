@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1584" height="396" viewBox="0 0 1584 396" role="img" aria-labelledby="title description">
+  <title id="title">AI workflow and automation LinkedIn banner</title>
+  <desc id="description">A dark-blue professional banner for an AI Workflow and Automation Specialist.</desc>
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#071a35"/>
+      <stop offset="0.52" stop-color="#0d3157"/>
+      <stop offset="1" stop-color="#08213e"/>
+    </linearGradient>
+    <linearGradient id="glow" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#22d3ee" stop-opacity="0"/>
+      <stop offset="0.45" stop-color="#22d3ee" stop-opacity="0.36"/>
+      <stop offset="1" stop-color="#a78bfa" stop-opacity="0"/>
+    </linearGradient>
+    <filter id="softGlow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="10"/>
+    </filter>
+    <pattern id="dots" width="28" height="28" patternUnits="userSpaceOnUse">
+      <circle cx="2" cy="2" r="1.5" fill="#bcecff" opacity="0.18"/>
+    </pattern>
+  </defs>
+
+  <rect width="1584" height="396" fill="url(#background)"/>
+  <rect width="1584" height="396" fill="url(#dots)" opacity="0.45"/>
+  <path d="M0 328 C252 250 372 392 612 307 S991 174 1221 275 S1458 354 1584 232 L1584 396 L0 396Z" fill="#06162c" opacity="0.62"/>
+  <path d="M0 80 C242 0 429 159 647 90 S983 -5 1160 77 S1407 155 1584 58" fill="none" stroke="url(#glow)" stroke-width="2"/>
+  <path d="M0 329 C252 251 372 393 612 308 S991 175 1221 276 S1458 355 1584 233" fill="none" stroke="#39d5ec" stroke-opacity="0.28" stroke-width="2"/>
+
+  <!-- Leave the lower-left area clear for LinkedIn's circular profile photo. -->
+  <g fill="none" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="210" cy="176" r="78" stroke="#34d5ed" stroke-opacity="0.35" stroke-width="2"/>
+    <circle cx="210" cy="176" r="54" stroke="#a78bfa" stroke-opacity="0.22" stroke-width="2" stroke-dasharray="3 11"/>
+    <path d="M178 176h22l12-25 15 51 13-26h20" stroke="#57e0f2" stroke-width="3"/>
+    <circle cx="178" cy="176" r="5" fill="#57e0f2" stroke="none"/>
+    <circle cx="260" cy="176" r="5" fill="#57e0f2" stroke="none"/>
+  </g>
+
+  <g transform="translate(502 105)">
+    <rect x="0" y="0" width="90" height="28" rx="14" fill="#103f68" stroke="#36d5eb" stroke-opacity="0.65"/>
+    <text x="45" y="19" text-anchor="middle" fill="#aef2fa" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700" letter-spacing="1.8">AI + AUTOMATION</text>
+    <text x="0" y="82" fill="#ffffff" font-family="Arial, Helvetica, sans-serif" font-size="42" font-weight="700" letter-spacing="0.2">AI WORKFLOW &amp; AUTOMATION</text>
+    <text x="0" y="119" fill="#7ee8f5" font-family="Arial, Helvetica, sans-serif" font-size="27" font-weight="500">SPECIALIST</text>
+    <rect x="0" y="145" width="755" height="1" fill="#69ddec" opacity="0.45"/>
+    <text x="0" y="187" fill="#d9efff" font-family="Arial, Helvetica, sans-serif" font-size="19" font-weight="400">Python  •  Prompt Engineering  •  Data Analysis  •  AI Operations</text>
+  </g>
+
+  <g transform="translate(1338 80)" fill="none" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="72" cy="72" r="70" fill="#123c61" fill-opacity="0.5" stroke="#48d8ee" stroke-opacity="0.3"/>
+    <path d="M50 55h44v33H50zM61 45h22M61 98h22M41 65v13M103 65v13M61 113v-8M83 113v-8" stroke="#7aeaf5" stroke-width="3"/>
+    <circle cx="63" cy="71" r="3" fill="#7aeaf5" stroke="none"/>
+    <circle cx="81" cy="71" r="3" fill="#7aeaf5" stroke="none"/>
+    <path d="M62 84c7 5 14 5 21 0" stroke="#a78bfa" stroke-width="3"/>
+  </g>
+</svg>
